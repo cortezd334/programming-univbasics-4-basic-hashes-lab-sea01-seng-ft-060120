@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:key => value}# return a valid hash with any key/value pair of your choice
+  {:name => "Danira"}# return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
